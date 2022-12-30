@@ -1,4 +1,4 @@
-# YouTube-Playlist-Urls-Extractor-Telegram-Bot
+# YouTube-Playlist-Urls-Extractor-Telegram-Bot🤖
 
 This bot allows you to extract the URLs of all the videos in a YouTube playlist and send them to you through Telegram.
 
